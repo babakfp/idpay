@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 99.998 36">
+  <g data-name="Group 32">
+    <path fill="#4c9b97" d="m31.998 27.999-32 8v-28l32-8Z" data-name="4"/>
+    <path fill="#d4ecdd" d="m35.998 31.999-36 4v-28l36-4Z" data-name="3"/>
+  </g>
+  <g data-name="Group 33">
+    <path fill="#4c9b97" d="M39.998 35.998h-40v-28h40ZM9.969 18.444a10.02 10.02 0 0 0 .787 3.905 10.058 10.058 0 0 0 3.637 4.411 9.98 9.98 0 0 0 5.641 1.714 9.909 9.909 0 0 0 3.871-.787 10.044 10.044 0 0 0 4.41-3.637 9.924 9.924 0 0 0 1.715-5.606Z" data-name="2"/>
+    <path fill="#fff" d="M9.969 18.445a10.02 10.02 0 0 0 .787 3.905 10.058 10.058 0 0 0 3.637 4.411 9.98 9.98 0 0 0 5.641 1.714 9.909 9.909 0 0 0 3.871-.787 10.044 10.044 0 0 0 4.41-3.637 9.924 9.924 0 0 0 1.715-5.606Z" data-name="1"/>
+  </g>
+  <text fill="#4c9b97" font-family="Montserrat-Bold, Montserrat" font-size="18" font-weight="700" transform="translate(47.998 27.997)"><tspan x="0" y="0">idpay</tspan></text>
+</svg>
