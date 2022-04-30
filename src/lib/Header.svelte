@@ -1,5 +1,6 @@
 <script>
 	import { isMobileMenuOpen } from '$store/header.js'
+	import { isLoggedIn } from '$store/auth.js'
 	const navItems = [
 		{
 			title: 'درباره آیدی‌پی',
@@ -36,9 +37,15 @@
 			</button>
 			
 			<!-- Auth -->
-			<a class="btn-base | h-full px-4 | text-xs | border-x border-gray-200" href="/auth">
-				ورود به حساب
-			</a>
+			<div class="h-full border-x border-gray-200">
+				<a class="btn-base | h-full px-4 | text-xs" href="/auth">
+					{#if $isLoggedIn}
+						مشاهده حساب
+					{:else}
+						ورود به حساب
+					{/if}
+				</a>
+			</div>
 		</div>
 		
 		<!-- Logo -->
