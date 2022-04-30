@@ -26,7 +26,7 @@
 	]
 </script>
 
-<header class="relative z-50 bg-gray-50 border-b border-gray-200">
+<header class="z-50 sticky top-0 bg-gray-50 border-b border-gray-200">
 	<div class="container px-0 | flex items-center justify-between | h-14">
 		
 		<!-- Right Side -->
@@ -56,8 +56,9 @@
 	</div>
 </header>
 
+<!-- Mobile Menu -->
 <OutClick on:outclick={_=> $isMobileMenuOpen = false} excludeByQuerySelector={['#mobile-menu-toggle']}>
-	<nav class="absolute top-14 -translate-y-full {$isMobileMenuOpen && 'translate-y-0'} inset-x-0 bg-gray-100 text-sm duration-500 ease-in-out">
+	<nav class="fixed top-14 -translate-y-full {$isMobileMenuOpen && 'translate-y-0'} inset-x-0 bg-gray-100 text-sm duration-500 ease-in-out">
 		<ul class="py-2">
 			{#each navItems as item}
 				<li>
@@ -69,13 +70,3 @@
 		</ul>
 	</nav>
 </OutClick>
-
-<style lang="postcss">
-	/* nav {} */
-	/* nav li:first-child a {
-		@apply pt-4;
-	}
-	nav li:last-child a {
-		@apply pb-4;
-	} */
-</style>
