@@ -1,4 +1,5 @@
 <script>
+	import OutClick from 'svelte-outclick'
 	import { isMobileMenuOpen } from '$store/header.js'
 	import { isLoggedIn } from '$store/auth.js'
 	const navItems = [
@@ -25,14 +26,14 @@
 	]
 </script>
 
-<header class="relative z-50 bg-gray-50">
+<header class="relative z-50 bg-gray-50 border-b border-gray-200">
 	<div class="container px-0 | flex items-center justify-between | h-14">
 		
 		<!-- Right Side -->
 		<div class="flex items-center | h-full">
 			
 			<!-- Open Mobile Menu -->
-			<button class="btn-base | h-full px-4" on:click={_=> $isMobileMenuOpen = !$isMobileMenuOpen}>
+			<button id="mobile-menu-toggle" class="btn-base | h-full px-4" on:click={_=> $isMobileMenuOpen = !$isMobileMenuOpen}>
 				<svg class="w-4 fill-gray-500" viewBox="0 0 448 512"><path d="M0 80c0-8.84 7.164-16 16-16h416c8.8 0 16 7.16 16 16s-7.2 16-16 16H16C7.164 96 0 88.84 0 80zm0 160c0-8.8 7.164-16 16-16h416c8.8 0 16 7.2 16 16s-7.2 16-16 16H16c-8.836 0-16-7.2-16-16zm432 176H16c-8.836 0-16-7.2-16-16s7.164-16 16-16h416c8.8 0 16 7.2 16 16s-7.2 16-16 16z"/></svg>
 			</button>
 			
@@ -55,19 +56,22 @@
 	</div>
 </header>
 
-<nav class="absolute top-14 {$isMobileMenuOpen && '-translate-y-full'} inset-x-0 bg-gray-100 border-t border-gray-200 text-sm duration-500 ease-in-out">
-	<ul class="py-2">
-		{#each navItems as item}
-			<li>
-				<a class="block py-2 px-4 duration-150 hover:bg-gray-200 focus:bg-gray-200" href={item.href}>
-					{item.title}
-				</a>
-			</li>
-		{/each}
-	</ul>
-</nav>
+<OutClick on:outclick={_=> $isMobileMenuOpen = false} excludeByQuerySelector={['#mobile-menu-toggle']}>
+	<nav class="absolute top-14 -translate-y-full {$isMobileMenuOpen && 'translate-y-0'} inset-x-0 bg-gray-100 text-sm duration-500 ease-in-out">
+		<ul class="py-2">
+			{#each navItems as item}
+				<li>
+					<a class="block py-2 px-4 duration-150 hover:bg-gray-200 focus:bg-gray-200" href={item.href}>
+						{item.title}
+					</a>
+				</li>
+			{/each}
+		</ul>
+	</nav>
+</OutClick>
 
 <style lang="postcss">
+	/* nav {} */
 	/* nav li:first-child a {
 		@apply pt-4;
 	}
