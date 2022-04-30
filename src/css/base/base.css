@@ -1,0 +1,27 @@
+@layer base {
+
+	::selection {
+		@apply bg-brand bg-opacity-20;
+	}
+
+	/* --- */
+
+	* {
+		@apply select-none;
+		user-drag: none;
+		-moz-user-select: none;
+		-webkit-user-drag: none;
+		-ms-user-select: none;
+
+		/* !outline-none  */
+		/* &:focus-visible {
+			box-shadow: inset 0px 0px 0px 1px red;
+		} */
+  }
+
+	body {
+		@apply text-gray-700;
+		font-family: "Dana";
+	}
+
+}

@@ -1,0 +1,23 @@
+@layer components {
+
+	.btn-base {
+		@apply inline-flex items-center justify-center duration-150 ease-in-out select-none whitespace-nowrap active:scale-90;
+	}
+
+	.btn-animate {
+		@apply duration-150 ease-in-out active:scale-90;
+	}
+
+	.btn {
+		@apply inline-flex items-center justify-center gap-3 h-10 py-2 px-4 !leading-none border-2 border-transparent border-opacity-80 rounded duration-150 ease-in-out select-none whitespace-nowrap active:scale-90 hover:border-opacity-100 focus:border-opacity-100;
+	}
+
+	/* Brand */
+	.btn--brand:not(.btn--outline) {
+		@apply bg-brand text-white text-opacity-90 hover:bg-brand-dark focus:bg-brand-dark;
+	}
+	.btn--brand.btn--outline {
+		@apply text-brand border-brand hover:text-white hover:bg-brand focus:text-white focus:bg-brand;
+	}
+
+}
