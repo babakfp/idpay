@@ -1,4 +1,5 @@
 <script>
+	import { navigating } from '$app/stores'
 	import OutClick from 'svelte-outclick'
 	import { isMobileMenuOpen } from '$store/header.js'
 	import { isLoggedIn } from '$store/auth.js'
@@ -24,6 +25,7 @@
 			href: '#',
 		},
 	]
+	$: $navigating && ($isMobileMenuOpen = false)
 </script>
 
 <header class="z-50 sticky top-0 bg-gray-50 border-b border-gray-200">
@@ -62,7 +64,7 @@
 		<ul class="py-2">
 			{#each navItems as item}
 				<li>
-					<a class="block py-2 px-4 duration-150 hover:bg-gray-200 focus:bg-gray-200" href={item.href}>
+					<a class="block py-2 px-4 duration-150 hover:bg-gray-200 focus:bg-gray-200" href={item.href} on:click={_=> $isMobileMenuOpen = false}>
 						{item.title}
 					</a>
 				</li>
