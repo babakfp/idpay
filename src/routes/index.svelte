@@ -1,1 +1,113 @@
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dignissimos sed laborum illo animi? Magni eius illo animi magnam nulla voluptatum laborum? Aliquid expedita, facilis minima quam quis unde soluta natus accusamus praesentium blanditiis facere similique. Et perferendis ullam officiis ipsam! Numquam repellendus quaerat praesentium voluptates suscipit quisquam illum eum quibusdam fugit necessitatibus ad, quas distinctio quam ipsam illo veritatis in. Dolorem nisi non consequuntur corrupti veniam aperiam facere obcaecati. Quis officiis numquam, cum, quae eaque dignissimos eum eligendi quaerat dolorum laboriosam voluptate vel. Deleniti voluptatem eius distinctio ipsum, quas saepe porro libero veritatis, illo voluptate architecto ratione id repellat eaque commodi velit tenetur voluptates recusandae aspernatur fugiat eum. Laborum consequuntur ut praesentium eos excepturi nesciunt fugit, cum cumque eaque blanditiis magni odio sapiente hic dignissimos odit quam placeat, tenetur doloremque ea! Eaque, ducimus, animi totam quae quam doloremque excepturi suscipit non voluptatum ipsa nulla quia reiciendis in doloribus aperiam temporibus id eligendi ex omnis inventore voluptates. Autem officiis nesciunt deserunt fuga repudiandae sunt, harum suscipit officia unde sed quo aperiam temporibus nostrum? Quibusdam accusantium, dignissimos quas doloremque numquam eum officiis commodi est facilis labore voluptas deleniti libero perferendis. Possimus dicta laborum blanditiis asperiores fuga ab illum, mollitia quidem voluptate necessitatibus nemo neque officiis ad. Culpa eius esse accusamus hic quibusdam porro quod aperiam eos natus soluta iste, sunt architecto sed, atque corrupti. Eligendi accusamus officia voluptates doloribus et architecto molestias incidunt, fuga illum! Veniam magnam, quis laborum deleniti soluta, voluptatum quos, quasi in consectetur cum obcaecati nisi temporibus quia. Quibusdam, velit itaque sunt quis eum fugiat tempora voluptate repellat, excepturi explicabo consequatur repellendus quae voluptates laborum! Provident dignissimos, distinctio labore optio maxime corrupti unde porro iure obcaecati, facere officia minima doloremque amet modi maiores facilis, incidunt natus. Odit officia libero rem laborum distinctio, repudiandae corrupti mollitia, corporis provident velit, voluptatum eum tempora? Sequi itaque optio assumenda sunt beatae accusamus numquam consequuntur aut in ex, exercitationem doloribus qui magnam deserunt eum ipsum nemo, ducimus blanditiis quod atque obcaecati! Voluptatibus praesentium non cupiditate, laborum perferendis id assumenda porro quae voluptatem maiores repellat est repudiandae iusto numquam, molestias ipsam quisquam necessitatibus officia consectetur adipisci officiis molestiae harum nam. Ullam exercitationem quod accusamus vel dolore veritatis iure consectetur tempora. Consequatur consectetur, doloribus voluptatem vel eum cumque tempore odio qui deleniti iusto ex illum soluta optio labore earum adipisci dolorum, sint, assumenda ipsa necessitatibus voluptas! Culpa tenetur possimus illo, facilis doloribus dolorum totam, ullam ipsa rerum, aspernatur asperiores delectus voluptatibus veritatis perspiciatis. Voluptatibus nemo soluta quia suscipit quae voluptate odit harum dicta facere. Perspiciatis consectetur ex, est tempora labore voluptatem ipsum nostrum hic deserunt excepturi aperiam, expedita aspernatur quaerat sequi delectus velit vitae. Sit possimus vero alias eum in fugiat sunt minima, doloremque nisi, sed iure temporibus accusamus eos maiores velit iusto aperiam optio molestias amet! Id deleniti ratione eum, hic laboriosam voluptates ipsum, atque non, dolor temporibus harum eaque enim soluta. Accusamus laborum deleniti quasi, cumque facere excepturi autem dicta, minima nisi iste ducimus maxime adipisci sint molestiae eum tempora incidunt nobis iusto.</p>
+<section class="container py-12 px-8 bg-gray-50">
+	<h1 class="text-2xl font-light">
+		درگاه پرداخت اینترنتی<br>با پـرداخـت‌های سریـع‌تـر<br>امـن و مـطـمـئـن‌تـر</h1>
+	<div class="mt-4 flex gap-4">
+		<a class="btn btn-brand text-xs" href="#">ساخت درگاه پرداخت</a>
+		<a class="btn btn-light text-xs" href="#">دانلود اپلیکیشن</a>
+	</div>
+</section>
+
+<section class="container py-8 bg-gray-800 text-gray-300 font-light">
+	<h2>بـهترین ویژگی‌های آیدی‌پی</h2>
+	<p class="mt-2 text-xs text-gray-400 leading-5 font-extralight">درگاه پرداخت اینترنتی آیدی‌پی, امکان مدیریت تراکنش‌های مالی در بستر وب را به راحتی امکان‌پذیر می‌سازد و با پیاده‌سازی راه‌کارهای هوشمندانه, باعث افزایش تراکنش‌های موفق و سوددهی بیش‌تر می‌شود.<p>
+
+	<div class="mt-8 grid gap-8 grid-cols-2">
+		<div class="col-span-2">
+			<div class="flex items-center gap-2">
+				<svg class="fill-gray-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M16 160h441.4L356.7 260.7c-6.25 6.25-6.25 16.38 0 22.62s16.38 6.25 22.62 0l128-128C510.4 152.2 512 148.1 512 144s-1.562-8.188-4.688-11.31l-128-128c-6.25-6.25-16.38-6.25-22.62 0s-6.25 16.38 0 22.62L457.4 128H16c-8.844 0-16 7.2-16 16s7.156 16 16 16zm480 192H54.63l100.7-100.7c6.25-6.25 6.25-16.38 0-22.62s-16.38-6.25-22.62 0l-128 128C1.563 359.8 0 363.9 0 368s1.562 8.188 4.688 11.31l128 128c6.25 6.25 16.38 6.25 22.62 0s6.25-16.38 0-22.62L54.63 384H496c8.844 0 16-7.156 16-16s-7.2-16-16-16z"/></svg>
+				<span class="text-sm">هوشمند, سریع و آسان</span>
+			</div>
+			<p class="mt-2 text-xs text-gray-400 leading-5 font-extralight">استانداردهای متفاوت آیدی‌پی در بازه‌های زمانی مختلف, باعث می‌شود کاربران به آسانی به بهترین درگاه پرداخت با بالاترین میزان تراکنش‌های موفق به سرعت هدایت شوند.</p>
+		</div>
+		<div>
+			<div class="flex items-center gap-2">
+				<svg class="fill-gray-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M160 416H80.37c-17.81 0-33.59-9.156-42.21-24.5-8.406-14.94-8.109-32.63.797-47.28L108.6 229.6l14.02 48.41c2.031 7 8.422 11.56 15.37 11.56a15.71 15.71 0 0 0 4.453-.625c8.482-2.469 13.37-11.34 10.92-19.81l-25.17-86.94C127 178.1 124.3 174.6 120.6 172.6c-3.8-2.1-8.2-2.6-12.2-1.4l-86.94 25.2c-8.49 2.5-13.376 11.4-10.92 19.8 2.453 8.5 11.33 13.5 19.82 10.94l51.31-14.84-70.05 115.3c-14.1 24.69-15.5 54.44-1.344 79.59C24.64 432.8 50.84 448 80.37 448h79.64c8.844 0 15.1-7.156 15.1-16s-6.31-16-15.11-16zm340.4-88.4-38.74-63.78c-4.592-7.5-14.4-9.906-21.98-5.375-7.547 4.594-9.951 14.44-5.359 22l38.74 63.78c8.906 14.66 9.203 32.34.797 47.28C465.2 406.8 449.4 416 431.6 416h-121l36.68-36.69c6.25-6.25 6.25-16.38 0-22.62s-16.37-6.25-22.62 0l-63.99 64c-6.25 6.25-6.25 16.38 0 22.62l63.99 64c3.14 3.09 7.24 4.69 10.44 4.69s8.186-1.562 11.31-4.688c6.25-6.25 6.25-16.38 0-22.62L310.6 448h121c29.53 0 55.72-15.25 70.1-40.81 14.2-25.19 13.7-54.89-1.3-79.59zm-203-272.47 50.37 82.91-45.47-13.19c-8.498-2.5-17.37 2.469-19.82 10.94s2.438 17.34 10.92 19.81l86.92 25.19c1.469.406 2.953.625 4.453.625a15.71 15.71 0 0 0 7.719-2 15.933 15.933 0 0 0 7.654-9.562l25.17-86.94c2.453-8.469-2.438-17.34-10.92-19.81-8.531-2.469-17.37 2.438-19.83 10.94l-15.57 53.78L324.8 38.5C310.1 14.38 284.4 0 256 0s-54.1 14.38-68.8 38.5l-29.8 49.19c-4.594 7.562-2.188 17.41 5.357 22 7.531 4.562 17.4 2.125 21.98-5.375l29.89-49.19C223.4 40.63 238.9 32 256 32s32.6 8.63 41.4 23.13z"/></svg>
+				<span class="text-sm">کم کارمزد ترین</span>
+			</div>
+			<p class="mt-2 text-xs text-gray-400 leading-5 font-extralight">حداقل ۷۰۰ تومان و حداکثر ۳,۰۰۰ تومان کارمزد.</p>
+		</div>
+		<div>
+			<div class="flex items-center gap-2">
+				<svg class="fill-gray-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="m466.5 83.71-192-80c-5.875-2.5-12.16-3.703-18.44-3.703S243.5 1.203 237.6 3.703L45.61 83.71C27.73 91.08 16 108.6 16 127.1 16 385.4 205.4 512 255.9 512 305.2 512 496 387.3 496 127.1c0-18.5-11.7-36.02-29.5-43.39zm-2.6 44.59c0 225.3-166.2 351.7-207.8 351.7C213.3 479.1 48 352.2 48 128c0-6.5 3.875-12.25 9.75-14.75l192-80a16.221 16.221 0 0 1 6.258-1.266c2.071 0 4.154.407 6.117 1.266l192 80c9.175 3.85 9.775 12.55 9.775 15.05zm-127.9 53a15.933 15.933 0 0 0-11.31 4.688L229.3 281.4l-42-42c-3.1-3.2-7.2-4.7-11.3-4.7-9.139 0-16 7.473-16 16 0 4.094 1.562 8.188 4.688 11.31l53.34 53.33C221.2 318.4 225.3 320 229.3 320s8.188-1.562 11.31-4.688l106.7-106.7A16.064 16.064 0 0 0 352 197.3c0-8.5-6.9-16-16-16z"/></svg>
+				<span class="text-sm">امنیت بالا</span>
+			</div>
+			<p class="mt-2 text-xs text-gray-400 leading-5 font-extralight">ضمانتی بر امنیت اطلاعات بانکی افراد هنگام پرداخت‌‌های اینترنتی.</p>
+		</div>
+	</div>
+</section>
+
+<section class="container py-8 grid gap-8">
+	<div>
+		<h2 class="font-semibold">مهندسی شده برای رشد و فروش بیش‌تر</h2>
+		<p class="mt-2 text-sm leading-7">درگاه پرداخت آیدی‌پی, با اتصال هم‌زمان به درگاه‌های متنوع و معتبر بانکی(PSPها), کاربران را به سریع‌ترین و مطمئن‌ترین درگاه بانکی منتقل می‌کند و به واسطه‌ی قابلیت مسیردهی هوشمند, باعث افزایش درصد تراکنش‌های موفق می‌شود.</p>
+		<div class="mt-4 flex gap-4">
+			<a class="btn btn-brand text-xs" href="#">ساخت درگاه پرداخت</a>
+			<a class="btn btn-light text-xs" href="#">بیشتر بدانید</a>
+		</div>
+	</div>
+
+	<div>
+		<h2 class="font-semibold">پرداخت در شبکه‌های اجتماعی</h2>
+		<p class="mt-2 text-sm leading-7">آیدی‌لینک با مدیریت فرآیند فروش به روشی هوشمندانه و سریع, باعث افزایش فروش محصولات و خدمات, از طریق شبکه‌های اجتماعی مانند اینستاگرام, تلگرام یا وب‌سایت می‌شود.</p>
+		<div class="mt-4 flex gap-4">
+			<a class="btn btn-brand text-xs" href="#">ساخت آیدی‌لینک</a>
+			<a class="btn btn-light text-xs" href="#">بیشتر بدانید</a>
+		</div>
+	</div>
+
+	<div>
+		<h2 class="font-semibold">طلایی‌ترین کارت بانکی</h2>
+		<p class="mt-2 text-sm leading-7">آیدی‌کارت یک کارت بانکی عضو شبکه‌‌ی شتاب و متصل به یک حساب بانکی است که از تمام ویژگی‌‌ها و امکانات یک حساب بانکی تمام عیار برخوردار است. آیدی‌کارت این امکان را برای کاربران خود فراهم می‌‌سازد تا از تعرفه‌‌ی کارمزد کم‌‌تر در روزهای عادی و کارمزد رایگان در سه‌‌شنبه‌‌های طلاییِ آیدی‌پی بهره‌‌مند شوند.</p>
+		<div class="mt-4 flex gap-4">
+			<a class="btn btn-brand text-xs" href="#">درخواست آیدی‌کارت</a>
+			<a class="btn btn-light text-xs" href="#">بیشتر بدانید</a>
+		</div>
+	</div>
+
+	<div>
+		<h2 class="font-semibold">درگاه پرداخت اشتراکی</h2>
+		<p class="mt-2 text-sm leading-7">تسهیم بهترین روش برای مدیریت مالی کسب‌ و کارهای شراکتی است که به واسطه‌ی آن, درآمد حاصل از فروش محصولات یا خدمات, در سهم‌های ثابت یا متغیر میان شرکای تجاری تقسیم شده و به صورت جداگانه به حساب هر شخص واریز می‌‌شود.</p>
+		<div class="mt-4 flex gap-4">
+			<a class="btn btn-brand text-xs" href="#">درخواست فعال‌سازی تسهیم</a>
+			<a class="btn btn-light text-xs" href="#">بیشتر بدانید</a>
+		</div>
+	</div>
+
+	<div>
+		<h2 class="font-semibold">فروشگاه اینترنتی بسازید</h2>
+		<p class="mt-2 text-sm leading-7">اگر کالا یا خدمتی برای فروش دارید یا اگر فروشگاهی در اینستاگرام دارید با استفاده از آیدی‌پی می توانید <a class="link" href="#">فروشگاه اینترنتی</a> خود را بصورت رایگان و در کوتاه ترین زمان ممکن ایجاد کنید و برای هر کالا لینک پرداخت مستقیم بسازید.</p>
+		<div class="mt-4 flex gap-4">
+			<a class="btn btn-brand text-xs" href="#">ساخت فروشگاه</a>
+			<a class="btn btn-light text-xs" href="#">بیشتر بدانید</a>
+		</div>
+	</div>
+
+	<div>
+		<h2 class="font-semibold">کیف پول الکترونیکی</h2>
+		<p class="mt-2 text-sm leading-7">با یک بار شارژ کیف پول آیدی‌پی می توانید انواع خدمات پرداخت قبض, خرید شارژ سیم کارت, خرید بسته های اینترنت, پرداخت کرایه تاکسی و خرید بلیط مترو را بدون ورود به درگاه بانکی و رمز دوم و به آسان ترین حالت ممکن انجام بدهید.</p>
+	</div>
+	<div>
+		<h2 class="font-semibold">درگاه پرداخت شخصی</h2>
+		<p class="mt-2 text-sm leading-7">با آیدی‌پی می توانید به راحتی یک <a class="link" href="#">درگاه پرداخت شخصی</a> برای امور مالی خود بسازید و بجای ارسال شماره کارت, شماره حساب یا شماره شبا آدرس آیدی‌پی خود را برای کسانی که قصد پرداخت مبلغی به شما دارند را ارسال کنید و تا سقف 50 میلیون تومان پول جابجا کنید.</p>
+	</div>
+	<div>
+		<h2 class="font-semibold">درگاه پرداخت شخصی و شرکتی</h2>
+		<p class="mt-2 text-sm leading-7">با آیدی‌پی می توانید به راحتی یک <a class="link" href="#">درگاه پرداخت شخصی یا شرکتی</a> برای امور مالی خود بسازید و بجای ارسال شماره کارت, شماره حساب یا شماره شبا آدرس آیدی‌پی خود را برای کسانی که قصد پرداخت مبلغی به شما دارند را ارسال کنید و تا سقف 50 میلیون تومان پول جابجا کنید.</p>
+	</div>
+	<div>
+		<h2 class="font-semibold">درگاه پرداخت فروشگاه اینترنتی (وب سرویس)</h2>
+		<p class="mt-2 text-sm leading-7">با توجه به روند پیچیده و زمان بر بودن اخذ درگاه بانکی, می‌توانید با استفاده از وب‌سرویس آیدی‌پی در سریع‌ترین زمان ممکن, یک درگاه پرداخت برای وب‌سایت و اپلیکیشن خود را راه‌اندازی کنید.</p>
+	</div>
+	<div>
+		<h2 class="font-semibold">جابه‌جایی پول تا 50 میلیون تومان</h2>
+		<p class="mt-2 text-sm leading-7">از طریق درگاه پرداخت آیدی‌پی می توانید تا 50 میلیون تومان برای کسی که درگاه آیدی‌پی خود را فعال کرده است واریز وجه کنید و یا تا 50 میلیون تومان از طریق درگاه آیدی‌پی پول دریافت کنید.</p>
+	</div>
+	<div>
+		<h2 class="font-semibold">ساخت لینک پرداخت (فاکتور پیامکی)</h2>
+		<p class="mt-2 text-sm leading-7">با این قابلیت می توانید یک پیامک حاوی اطلاعات پرداخت که شامل لینک پرداخت مستقیم نیز است را با مبلغ دلخواه بسازید و آن را با هدف های مختلف و برای افراد مد نظرتان از طریق پیامک ارسال کنید.</p>
+	</div>
+	<div>
+		<h2 class="font-semibold">ساخت کمپین جمع آوری وجوه</h2>
+		<p class="mt-2 text-sm leading-7">برای امور خیریه و یا حمایت از جریان های اجتماعی و... می‌توانید یک <a class="link" href="#">کمپین</a> بسازید و مردم با مراجعه به آن صفحه وجه مورد نظر خود جهت کمک واریز کنند و از تعداد و مبلغ کمک های دیگران نیز باخبر شوند.</p>
+	</div>
+</section>

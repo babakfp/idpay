@@ -1,8 +1,11 @@
+const colors = require('tailwindcss/colors')
+
 const config = {
   content: ['./src/**/*.{html,js,svelte}'],
   theme: {
     extend: {
 			colors: {
+				gray: colors.neutral,
 				brand: {
 					light: '#5bb4b0',
 					DEFAULT: '#4C9B97',

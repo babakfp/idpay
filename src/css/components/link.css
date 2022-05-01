@@ -1,0 +1,7 @@
+@layer components {
+
+	.link {
+		@apply text-brand underline decoration-transparent duration-150 ease-in-out hover:decoration-brand;
+	}
+
+}

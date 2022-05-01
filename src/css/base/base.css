@@ -24,4 +24,8 @@
 		font-family: "Dana";
 	}
 
+	svg {
+		@apply w-4 h-4;
+	}
+
 }
