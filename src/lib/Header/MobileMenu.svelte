@@ -6,7 +6,7 @@
 </script>
 
 <OutClick on:outclick={_=> $isMobileMenuOpen = false} excludeByQuerySelector={['#mobile-menu-toggle']}>
-	<nav class="z-40 fixed top-14 -translate-y-full {$isMobileMenuOpen && 'translate-y-0'} inset-x-0 bg-gray-100 border-b border-gray-200 text-sm duration-500 ease-in-out">
+	<nav class="z-40 fixed top-14 -translate-y-full {$isMobileMenuOpen && 'translate-y-0'} inset-x-0 bg-gray-100 border-b border-gray-200 text-sm duration-500 ease-out">
 		<ul class="py-2">
 			{#each $navItems as item}
 				<li>
