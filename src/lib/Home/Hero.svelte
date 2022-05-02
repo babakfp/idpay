@@ -1,5 +1,10 @@
 <section id="hero-section" class="relative bg-gray-50">
+  
+  <!-- Grid Pattern -->
   <div class="absolute inset-0 bg-bottom bg-gradient-to-b from-gray-50 via-transparent to-transparent"/>
+  
+  <!-- Green UnderLayer -->
+  <div class="hidden xl:block absolute inset-0 left-auto w-2/3 bg-brand bg-opacity-5"></div>
 
 	<div class="relative container py-12 px-8 xl:grid xl:grid-cols-2 xl:gap-8 xl:items-center xl:justify-between xl:px-4">
 		<div class="grid gap-4 xl:gap-6">
