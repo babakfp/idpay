@@ -5,6 +5,7 @@ const config = {
   theme: {
     extend: {
 			colors: {
+        // 'text-base': colors.neutral[700],
 				gray: colors.neutral,
 				brand: {
 					light: '#5bb4b0',
