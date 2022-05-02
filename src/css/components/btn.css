@@ -5,7 +5,7 @@
 	}
 
 	.btn {
-		@apply inline-flex items-center justify-center gap-3 h-9 py-2 px-4 !leading-none border-2 border-transparent border-opacity-80 rounded duration-150 ease-in-out select-none whitespace-nowrap active:scale-90 hover:border-opacity-100 focus:border-opacity-100;
+		@apply inline-flex items-center justify-center gap-3 h-9 py-2 px-4 drop-shadow-sm !leading-none border-2 border-transparent border-opacity-80 rounded duration-150 ease-in-out select-none whitespace-nowrap active:scale-90 hover:border-opacity-100 focus:border-opacity-100;
 	}
 
 	/* Brand */

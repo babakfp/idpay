@@ -4,12 +4,12 @@
     @apply border-0 bg-gray-200;
   }
 
-  hr:not(.hr-vertical) {
+  hr {
     @apply w-full h-px;
   }
 
   .hr-vertical {
-    @apply w-px h-full;
+    @apply w-px min-w-px h-full;
   }
 
 }
