@@ -11,5 +11,5 @@
     </div>
     <span class="text-sm">{title}</span>
   </div>
-  <p class="text-sm leading-7 font-extralight text-gray-400">{description}</p>
+  <p class="text-sm leading-7 font-light text-gray-400">{description}</p>
 </div>
