@@ -1,17 +1,8 @@
-<section id="hero-section" class="relative bg-gray-50">
-  <div class="absolute inset-0 bg-bottom bg-gradient-to-b from-gray-50 via-transparent via-transparent to-transparent"/>
+<script>
+  import Hero from '$lib/Home/Hero.svelte'
+</script>
 
-	<div class="relative container py-12 px-8 xl:flex xl:items-center xl:justify-between">
-		<div class="grid gap-4">
-			<h1 class="text-2xl font-light">درگاه پرداخت اینترنتی<br>با پـرداخـت‌های سریـع‌تـر<br>امـن و مـطـمـئـن‌تـر</h1>
-      <p class="text-sm text-gray-600">آیدی‌پی, اولین پرداخت‌یار پیشگام کشور, با به‌کارگیری سبک و استانداردهای جدید در ارائه‌ی خدمات درگاه پرداخت اینترنتی, سرویس‌های متنوعی در حوزه‌ی پرداخت الکترونیک را برای کسب و کارها ارائه کرده است؛ با این هدف که در افزایش سهم تجارت الکترونیکی در تولید ناخالص ملی و کمک به رشد و توسعه‌ی کسب‌وکارها, نقش سازنده‌‌ای ایفا کند.</p>
-			<div class="flex gap-4">
-				<a class="btn btn-brand text-xs" href="#">ساخت درگاه پرداخت</a>
-				<a class="btn btn-light text-xs" href="#">دانلود اپلیکیشن</a>
-			</div>
-		</div>
-	</div>
-</section>
+<Hero />
 
 <section class="bg-gray-800 text-gray-300 font-light">
 	<div class="container py-8 xl:flex">
