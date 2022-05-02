@@ -14,8 +14,8 @@
 			<OpenMobileMenu />
 			
 			<!-- Auth -->
-			<div class="h-full border-x border-gray-200 xl:border-x-0">
-				<a class="btn-base | h-full px-4 | text-xs | xl:text-sm xl:bg-brand xl:bg-opacity-5 xl:hover:bg-opacity-10 xl:focus:bg-opacity-20" href="/auth">
+			<div class="h-full border-x border-gray-200 xl:border-r-0">
+				<a class="btn-base | h-full px-4 | text-xs | xl:text-sm xl:hover:bg-gray-100 xl:focus:bg-gray-100" href="/auth">
 					{#if $isLoggedIn}
 						مشاهده حساب
 					{:else}

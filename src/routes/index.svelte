@@ -119,9 +119,3 @@
 		<p class="mt-2 text-sm leading-7">برای امور خیریه و یا حمایت از جریان های اجتماعی و... می‌توانید یک <a class="link" href="#">کمپین</a> بسازید و مردم با مراجعه به آن صفحه وجه مورد نظر خود جهت کمک واریز کنند و از تعداد و مبلغ کمک های دیگران نیز باخبر شوند.</p>
 	</div>
 </section>
-
-<style lang="postcss">
-  #hero-section {
-    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='32' height='32' fill='none' stroke='rgb(148 163 184 / .04)'%3e%3cpath d='M0 .5H31.5V32'/%3e%3c/svg%3e");
-  }
-</style>
