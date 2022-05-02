@@ -1,0 +1,15 @@
+  hr {
+    @apply border-0 bg-gray-200;
+  }
+
+  hr:not(.hr-vertical) {
+    @apply w-full h-px;
+  }
+
+  .hr-vertical {
+    @apply w-px h-full;
+  }
+@layer components {
+
+
+}
