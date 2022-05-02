@@ -7,10 +7,16 @@
       <h2 class="text-lg font-black text-gray-600 xl:text-2xl">انتخاب مطمئن کسب‌وکارهای آنلاین</h2>
       <p class="text-sm leading-7 text-justify text-gray-600 xl:text-base xl:leading-8">آیدی‌پی, اولین پرداخت‌یار پیشگام کشور, با به‌کارگیری سبک و استانداردهای مدرن و هوشمند در ارائه‌ی خدمات درگاه پرداخت اینترنتی, سرویس‌های متنوعی در حوزه‌ی پرداخت الکترونیک برای کسب‌وکارها ارائه داده است؛ با این هدف که در افزایش سهم تجارت الکترونیکی, در تولید ناخالص ملی و کمک به رشد و توسعه‌ی کسب‌وکارها, نقش سازنده‌‌ای ایفا کند.</p>
 			<div class="flex gap-4">
-				<a class="btn btn-brand text-xs xl:text-sm xl:h-14 xl:px-8" href="#">ساخت درگاه پرداخت</a>
-				<a class="btn btn-light text-xs xl:text-sm xl:h-14 xl:px-8" href="#">دانلود اپلیکیشن</a>
+				<a class="btn btn-brand text-xs xl:text-sm xl:h-14 xl:px-8 xl:hover:rotate-3" href="#">ساخت درگاه پرداخت</a>
+				<a class="btn btn-light text-xs xl:text-sm xl:h-14 xl:px-8 xl:hover:-rotate-3" href="#">دانلود اپلیکیشن</a>
 			</div>
 		</div>
     <img class="hidden xl:block max-w-xl justify-self-end" src="/payment-form.svg" alt="Payment form" aria-hidden="true">
 	</div>
 </section>
+
+<style lang="postcss">
+  #hero-section {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='32' height='32' fill='none' stroke='rgb(148 163 184 / .04)'%3e%3cpath d='M0 .5H31.5V32'/%3e%3c/svg%3e");
+  }
+</style>
