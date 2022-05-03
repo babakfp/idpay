@@ -3,7 +3,7 @@
 </script>
 
 <section class="relative overflow-hidden bg-gray-800 text-gray-300">
-  <img class="hidden xl:block max-w-4xl absolute bottom-0 right-64 translate-x-1/2 translate-y-1/2 opacity-5" src="—Pngtree—polka dot pattern_1086980.png" alt="Background pattern" aria-hidden="true">
+  <img class="hidden xl:block max-w-4xl absolute bottom-0 right-80 translate-x-1/2 translate-y-1/2 opacity-5" src="—Pngtree—polka dot pattern_1086980.png" alt="Background pattern" aria-hidden="true">
 
 	<div class="relative container py-12 px-8 grid gap-8 md:grid-cols-2 xl:grid-cols-3 xl:self-start">
 		<div class="grid gap-4 md:col-span-full xl:col-start-1 xl:col-end-2">
