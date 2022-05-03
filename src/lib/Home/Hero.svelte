@@ -6,7 +6,7 @@
   <!-- Green UnderLayer -->
   <div class="hidden lg:block absolute inset-0 left-auto w-2/3 bg-brand bg-opacity-5"></div>
 
-	<div class="relative container py-12 px-8 lg:grid lg:gap-8 lg:items-center lg:justify-between lg:grid-cols-2 lg:px-4">
+	<div class="relative container px-8 py-12 lg:grid lg:gap-8 lg:items-center lg:justify-between lg:grid-cols-2 lg:px-4">
 		
     <!-- Content -->
     <div class="grid gap-4 lg:gap-6">

@@ -5,7 +5,7 @@
 <section class="relative overflow-hidden bg-gray-800 text-gray-300">
   <img class="hidden xl:block max-w-4xl absolute bottom-0 right-80 translate-x-1/2 translate-y-1/2 opacity-5" src="—Pngtree—polka dot pattern_1086980.png" alt="Background pattern" aria-hidden="true">
 
-	<div class="relative container py-12 px-8 grid gap-8 md:grid-cols-2 xl:grid-cols-3 xl:self-start">
+	<div class="relative container px-8 py-12 grid gap-8 md:grid-cols-2 xl:grid-cols-3 xl:self-start">
 		<div class="grid gap-4 md:col-span-full xl:col-start-1 xl:col-end-2">
 			<h2 class="text-xl font-light xl:text-2xl">بـهترین ویژگی‌های آیدی‌پی</h2>
 			<p class="text-sm leading-7 text-justify text-gray-400 font-light xl:text-base xl:leading-8">درگاه پرداخت اینترنتی آیدی‌پی, امکان ایجاد و مدیریت تراکنش‌های مالی در بستر وب را به راحتی امکان‌پذیر می‌سازد و با پیاده‌سازی راه‌کارهای هوشمندانه, باعث افزایش تراکنش‌های موفق و سوددهی بیش‌تر می‌شود.</p>
