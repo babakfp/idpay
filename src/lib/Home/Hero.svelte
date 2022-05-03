@@ -21,7 +21,7 @@
 		</div>
     
     <!-- Vector -->
-    <img class="hidden lg:block max-w-xl justify-self-end" src="/payment-form.svg" alt="Payment form" aria-hidden="true">
+    <img class="hidden lg:block max-w-xl justify-self-center" src="/payment-form.svg" alt="Payment form" aria-hidden="true">
 	</div>
 </section>
 
