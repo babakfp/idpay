@@ -10,7 +10,7 @@
     primaryBtnHref="#"
     secondaryBtnText="بیشتر بدانید"
     secondaryBtnHref="#"
-    imgSrc="/payment-getway.svg"
+    imgSrc="/bank-payment-form.svg"
   />
   <ServicesItem
 		title="درگاه پرداخت اشتراکی"
@@ -28,17 +28,8 @@
     primaryBtnHref="#"
     secondaryBtnText="بیشتر بدانید"
     secondaryBtnHref="#"
-    imgSrc="/idpay-getway.svg"
+    imgSrc="/idpay-payment-form.svg"
   />
-  <!-- <ServicesItem
-		title="طلایی‌ترین کارت بانکی"
-		description="آیدی‌کارت یک کارت بانکی عضو شبکه‌‌ی شتاب و متصل به یک حساب بانکی است که از تمام ویژگی‌‌ها و امکانات یک حساب بانکی تمام عیار برخوردار است. آیدی‌کارت این امکان را برای کاربران خود فراهم می‌‌سازد تا از تعرفه‌‌ی کارمزد کم‌‌تر در روزهای عادی و کارمزد رایگان در سه‌‌شنبه‌‌های طلاییِ آیدی‌پی بهره‌‌مند شوند."
-    primaryBtnText="درخواست آیدی‌کارت"
-    primaryBtnHref="#"
-    secondaryBtnText="بیشتر بدانید"
-    secondaryBtnHref="#"
-    imgSrc="/idcard.svg"
-  /> -->
   <ServicesItem
 		title="فروشگاه اینترنتی بسازید"
 		description="اگر کالا یا خدمتی برای فروش دارید یا اگر فروشگاهی در اینستاگرام دارید با استفاده از آیدی‌پی می توانید <a class='link' href='#'>فروشگاه اینترنتی</a> خود را بصورت رایگان و در کوتاه ترین زمان ممکن ایجاد کنید و برای هر کالا لینک پرداخت مستقیم بسازید."

@@ -4,10 +4,15 @@ const config = {
   content: ['./src/**/*.{html,js,svelte}'],
   theme: {
     extend: {
+			maxHeight: theme => {
+        return {
+          ...theme('spacing'),
+          ...theme('maxWidth'),
+        }
+      },
       maxWidth: theme => theme('spacing'),
 			minWidth: theme => theme('spacing'),
 			minHeight: theme => theme('spacing'),
-			maxHeight: theme => theme('spacing'),
 			colors: {
         // 'text-base': colors.neutral[700],
 				gray: colors.neutral,
