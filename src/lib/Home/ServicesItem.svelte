@@ -2,6 +2,7 @@
   export let title
   export let description
   export let imgSrc
+  export let imgSizeClass
   export let primaryBtnText
   export let primaryBtnHref
   export let secondaryBtnText
@@ -21,5 +22,5 @@
     {/if}
   </div>
 
-  <img class="ServicesItem__img hidden lg:block max-w-lg max-h-lg justify-self-end" src={imgSrc} alt="" aria-hidden="true">
+  <img class="ServicesItem__img hidden lg:block max-w-lg max-h-lg justify-self-end {imgSizeClass}" src={imgSrc} alt="" aria-hidden="true">
 </div>

@@ -10,7 +10,12 @@ const config = {
           ...theme('maxWidth'),
         }
       },
-      maxWidth: theme => theme('spacing'),
+      maxWidth: theme => {
+        return {
+          ...theme('spacing'),
+          'sm-bigger': '26rem',
+        }
+      },
 			minWidth: theme => theme('spacing'),
 			minHeight: theme => theme('spacing'),
 			colors: {

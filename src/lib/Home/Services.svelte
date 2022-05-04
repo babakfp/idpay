@@ -11,6 +11,7 @@
     secondaryBtnText="بیشتر بدانید"
     secondaryBtnHref="#"
     imgSrc="/bank-payment-form.svg"
+    imgSizeClass="!max-w-sm-bigger"
   />
   <ServicesItem
 		title="درگاه پرداخت اشتراکی"
@@ -29,6 +30,7 @@
     secondaryBtnText="بیشتر بدانید"
     secondaryBtnHref="#"
     imgSrc="/idpay-payment-form.svg"
+    imgSizeClass="!max-w-sm-bigger"
   />
   <ServicesItem
 		title="فروشگاه اینترنتی بسازید"
@@ -37,7 +39,7 @@
     primaryBtnHref="#"
     secondaryBtnText="بیشتر بدانید"
     secondaryBtnHref="#"
-    imgSrc="/idplus.svg"
+    imgSrc="/idpay-shop.svg"
   />
 </section>
 
@@ -79,7 +81,6 @@
 <style lang="postcss">
   section.container :global(div:nth-child(even) .ServicesItem__img) {
     @apply order-1 justify-self-start;
-    transform: scaleX(-1);
   }
   section.container :global(div:nth-child(even) .ServicesItem__content) {
     @apply order-2;
