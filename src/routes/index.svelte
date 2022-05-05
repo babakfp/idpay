@@ -27,20 +27,20 @@
 
 <section class="container px-8 py-12 lg:px-4">
   <div class="flex flex-wrap justify-center gap-4">
-    <a class="flex w-28 py-1 rounded hover:opacity-90" style="background: #232323" href="#">
-      <img src="/apps-badge/badge-cafebazaar.png" alt="Get the app from Cafe Bazaar">
+    <a class="flex w-28 py-1 bg-gray-800 rounded hover:opacity-90" href="#">
+      <img src="/apps/cafebazaar.png" alt="Get the app from Cafe Bazaar">
     </a>
-    <a class="flex w-28 py-1 rounded hover:opacity-90" style="background: #232323" href="#">
-      <img src="/apps-badge/badge-googleplay.png" alt="Get the app from Google Play">
+    <a class="flex w-28 py-1 bg-gray-800 rounded hover:opacity-90" href="#">
+      <img src="/apps/googleplay.png" alt="Get the app from Google Play">
     </a>
-    <a class="flex w-28 py-1 rounded hover:opacity-90" style="background: #232323" href="#">
-      <img src="/apps-badge/badge-iapps.png" alt="Get the app from I Apps">
+    <a class="flex w-28 py-1 bg-gray-800 rounded hover:opacity-90" href="#">
+      <img src="/apps/iapps.png" alt="Get the app from I Apps">
     </a>
-    <a class="flex w-28 py-1 rounded hover:opacity-90" style="background: #232323" href="#">
-      <img src="/apps-badge/badge-myket.png" alt="Get the app from Myket">
+    <a class="flex w-28 py-1 bg-gray-800 rounded hover:opacity-90" href="#">
+      <img src="/apps/myket.png" alt="Get the app from Myket">
     </a>
-    <a class="flex w-28 py-1 rounded hover:opacity-90" style="background: #232323" href="#">
-      <img src="/apps-badge/badge-sibapp.png" alt="Get the app from Sib App">
+    <a class="flex w-28 py-1 bg-gray-800 rounded hover:opacity-90" href="#">
+      <img src="/apps/sibapp.png" alt="Get the app from Sib App">
     </a>
   </div>
 </section>
