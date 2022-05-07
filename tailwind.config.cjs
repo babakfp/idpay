@@ -30,6 +30,11 @@ const config = {
 			borderRadius: {
 				DEFAULT: '8px',
 			},
+      zIndex: { 
+				1: '1',
+				2: '2',
+				3: '3',
+			},
 		},
 		container: {
 			center: true,
@@ -41,11 +46,11 @@ const config = {
     fontWeight: {
       hairline: 50,
       thin: 100,
-      ultralight: 200,
+      extralight: 200,
       light: 300,
       regular: 400,
       medium: 500,
-      demibold: 600,
+      semibold: 600,
       bold: 700,
       extrabold: 800,
       black: 900,

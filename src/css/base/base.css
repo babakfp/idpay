@@ -21,12 +21,16 @@
 
   html,
 	body {
-		@apply h-full;
+		@apply h-full overflow-x-hidden;
   }
 
 	body {
-		@apply text-gray-700;
-		font-family: "Dana";
+		@apply text-gray-700 font-dana;
+	}
+
+  b,
+	strong {
+		@apply font-semibold;
 	}
 
 	svg {

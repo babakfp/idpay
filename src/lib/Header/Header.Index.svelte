@@ -29,7 +29,7 @@
 		
 		<!-- Logo -->
 		<a class="btn-base h-full px-4 | xl:hover:bg-gray-100 xl:focus:bg-gray-100" href="/">
-			<img class="w-20 xl:w-24" src="/logo.svg" alt="Logo">
+			<img class="w-20 xl:w-24" src="/logo.svg" alt="لوگوی آیدی‌پی">
 		</a>
 	</div>
 </header>
