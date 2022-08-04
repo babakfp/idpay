@@ -9,9 +9,6 @@
 	* {
 		@apply select-none;
 		user-drag: none;
-		-moz-user-select: none;
-		-webkit-user-drag: none;
-		-ms-user-select: none;
 
 		/* !outline-none  */
 		/* &:focus-visible {
@@ -21,11 +18,11 @@
 
   html,
 	body {
-		@apply h-full overflow-x-hidden;
+		@apply h-full;
   }
 
 	body {
-		@apply text-gray-700 font-dana;
+		@apply text-gray-700 font-dana overflow-x-hidden;
 	}
 
   b,
