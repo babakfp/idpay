@@ -2,8 +2,8 @@
   import CustomerItem from './CustomerItem.svelte'
 </script>
 
-<div class="bg-gray-50 grid gap-4 py-4">
-  <div class="container px-8 flex flex-wrap justify-between">
+<div class="bg-gray-50 grid gap-4">
+  <div class="container flex gap-8 justify-evenly">
     <CustomerItem src="/customers/behpardakht.svg" text="به پرداخت ملت" />
     <CustomerItem src="/customers/pecco.svg" text="تجارت الکترونیک پارسیان" />
     <CustomerItem src="/customers/sadad.png" text="تجارت الکترونیک سداد" />
@@ -52,33 +52,33 @@
     <div class="grid gap-8 sm:grid-cols-3 sm:items-start sm:gap-8">
       <nav class="grid gap-3">
         <h6 class="font-black text-gray-600">محصولات</h6>
-        <ul>
-          <li><a class="block py-1" href="##">درگاه شخصی و شرکتی</a></li>
-          <li><a class="block py-1" href="##">درگاه فروشگاه آنلاین</a></li>
-          <li><a class="block py-1" href="##">فروشگاه اینترنتی بساز</a></li>
-          <li><a class="block py-1" href="##">کمپین جم‌آوری وجه</a></li>
+        <ul class="text-xs">
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="##">درگاه شخصی و شرکتی</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="##">درگاه فروشگاه آنلاین</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="##">فروشگاه اینترنتی بساز</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="##">کمپین جم‌آوری وجه</a></li>
         </ul>
       </nav>
       <nav class="grid gap-3">
         <h6 class="font-black text-gray-600">آشنایی با آیدی‌پی</h6>
-        <ul>
-          <li><a class="block py-1" href="/##pricing">تعرفه‌ها</a></li>
-          <li><a class="block py-1" href="/##about">درباره ما</a></li>
-          <li><a class="block py-1" href="/##faq">سوالات متداول</a></li>
-          <li><a class="block py-1" href="/##contact">تماس با ما</a></li>
-          <li><a class="block py-1" href="/##pricing">همکاری در فروش</a></li>
-          <li><a class="block py-1" href="/##terms">قوانین و مقررات</a></li>
-          <li><a class="block py-1" href="/##privacy">حریم خصوصی</a></li>
+        <ul class="text-xs">
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##pricing">تعرفه‌ها</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##about">درباره ما</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##faq">سوالات متداول</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##contact">تماس با ما</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##pricing">همکاری در فروش</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##terms">قوانین و مقررات</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##privacy">حریم خصوصی</a></li>
         </ul>
       </nav>
       <nav class="grid gap-3">
         <h6 class="font-black text-gray-600">منابع</h6>
-        <ul>
-          <li><a class="block py-1" href="/##blog">بلاگ</a></li>
-          <li><a class="block py-1" href="/##banks">دریافت شماره شبا</a></li>
-          <li><a class="block py-1" href="/##web-service">راهنمای API پرداخت</a></li>
-          <li><a class="block py-1" href="/##plugins">پلاگین و افزونه‌های پرداخت</a></li>
-          <li><a class="block py-1" href="/##app">دانلود اپلیکیشن</a></li>
+        <ul class="text-xs">
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##blog">بلاگ</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##banks">دریافت شماره شبا</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##web-service">راهنمای API پرداخت</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##plugins">پلاگین و افزونه‌های پرداخت</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##app">دانلود اپلیکیشن</a></li>
           </ul>
       </nav>
     </div>
