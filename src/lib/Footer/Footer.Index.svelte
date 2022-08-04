@@ -52,7 +52,7 @@
     <div class="grid gap-8 sm:grid-cols-3 sm:items-start sm:gap-8">
       <nav class="grid gap-3">
         <h6 class="font-black text-gray-600">محصولات</h6>
-        <ul class="text-xs">
+        <ul class="text-sm">
           <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="##">درگاه شخصی و شرکتی</a></li>
           <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="##">درگاه فروشگاه آنلاین</a></li>
           <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="##">فروشگاه اینترنتی بساز</a></li>
@@ -61,7 +61,7 @@
       </nav>
       <nav class="grid gap-3">
         <h6 class="font-black text-gray-600">آشنایی با آیدی‌پی</h6>
-        <ul class="text-xs">
+        <ul class="text-sm">
           <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##pricing">تعرفه‌ها</a></li>
           <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##about">درباره ما</a></li>
           <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##faq">سوالات متداول</a></li>
@@ -73,7 +73,7 @@
       </nav>
       <nav class="grid gap-3">
         <h6 class="font-black text-gray-600">منابع</h6>
-        <ul class="text-xs">
+        <ul class="text-sm">
           <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##blog">بلاگ</a></li>
           <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##banks">دریافت شماره شبا</a></li>
           <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##web-service">راهنمای API پرداخت</a></li>
