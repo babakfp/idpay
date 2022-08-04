@@ -1,12 +1,12 @@
 <script>
   export let title
   export let description
-  export let imgSrc
-  export let imgSizeClass
-  export let primaryBtnText
-  export let primaryBtnHref
-  export let secondaryBtnText
-  export let secondaryBtnHref
+  export let imgSrc = null
+  export let imgSizeClass = null
+  export let primaryBtnText = null
+  export let primaryBtnHref = null
+  export let secondaryBtnText = null
+  export let secondaryBtnHref = null
 </script>
 
 <div class="{imgSrc && 'lg:grid lg:gap-8 lg:items-center lg:justify-between lg:grid-cols-2'}">

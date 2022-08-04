@@ -5,10 +5,10 @@
 
 <div class="bg-gray-50 grid gap-4">
   <div class="container flex gap-8 justify-evenly">
-    <CustomerItem src="/customers/behpardakht.svg" text="به پرداخت ملت" />
-    <CustomerItem src="/customers/pecco.svg" text="تجارت الکترونیک پارسیان" />
-    <CustomerItem src="/customers/sadad.png" text="تجارت الکترونیک سداد" />
-    <CustomerItem src="/customers/saman.svg" text="تجارت الکترونیک سامان کیش" />
+    <CustomerItem href="javascript:" src="/customers/behpardakht.svg" text="به پرداخت ملت" />
+    <CustomerItem href="javascript:" src="/customers/pecco.svg" text="تجارت الکترونیک پارسیان" />
+    <CustomerItem href="javascript:" src="/customers/sadad.png" text="تجارت الکترونیک سداد" />
+    <CustomerItem href="javascript:" src="/customers/saman.svg" text="تجارت الکترونیک سامان کیش" />
   </div>
 </div>
 
