@@ -4,6 +4,6 @@
   export let href
 </script>
 
-<a class="flex py-4 [ opacity-50 hover:opacity-100 ] [ duration-150 ease-in-out ]" {href} title="همکاری با شرکت {text}">
+<a class="flex py-4 [ opacity-50 hover:opacity-100 ] [ duration-300 ease-in-out ]" {href} title="همکاری با شرکت {text}">
   <img class="w-12 max-h-12 lg:w-16 lg:max-h-16" {src} alt="همکاری با شرکت {text}" />
 </a>
