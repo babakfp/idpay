@@ -20,26 +20,26 @@
         <p class="italic">درصورت داشتن هرگونه سوال می‌توانید با ما تماس بگیرید و همچنین میتوانید به صفحه پرسش‌های متداول مراجعه کنید.</p>
       </div>
       
-      <a class="btn btn-brand text-xs justify-self-start lg:btn-big lg:hover:rotate-3" href="#">ساخت درگاه پرداخت</a>
+      <a class="btn btn-brand text-xs justify-self-start lg:btn-big lg:hover:rotate-3" href="javascript:">ساخت درگاه پرداخت</a>
     </div>
   </div>
 </section>
 
 <section class="container px-8 py-12 lg:px-4">
   <div class="flex flex-wrap justify-center gap-4">
-    <a class="flex w-28 py-1 bg-gray-800 rounded hover:opacity-90" href="#">
+    <a class="flex w-28 py-1 bg-gray-800 rounded hover:opacity-90" href="javascript:">
       <img src="/apps/cafebazaar.png" alt="Get the app from Cafe Bazaar">
     </a>
-    <a class="flex w-28 py-1 bg-gray-800 rounded hover:opacity-90" href="#">
+    <a class="flex w-28 py-1 bg-gray-800 rounded hover:opacity-90" href="javascript:">
       <img src="/apps/googleplay.png" alt="Get the app from Google Play">
     </a>
-    <a class="flex w-28 py-1 bg-gray-800 rounded hover:opacity-90" href="#">
+    <a class="flex w-28 py-1 bg-gray-800 rounded hover:opacity-90" href="javascript:">
       <img src="/apps/iapps.png" alt="Get the app from I Apps">
     </a>
-    <a class="flex w-28 py-1 bg-gray-800 rounded hover:opacity-90" href="#">
+    <a class="flex w-28 py-1 bg-gray-800 rounded hover:opacity-90" href="javascript:">
       <img src="/apps/myket.png" alt="Get the app from Myket">
     </a>
-    <a class="flex w-28 py-1 bg-gray-800 rounded hover:opacity-90" href="#">
+    <a class="flex w-28 py-1 bg-gray-800 rounded hover:opacity-90" href="javascript:">
       <img src="/apps/sibapp.png" alt="Get the app from Sib App">
     </a>
   </div>

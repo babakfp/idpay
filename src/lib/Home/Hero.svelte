@@ -15,8 +15,8 @@
       <p class="text-sm leading-7 text-justify text-gray-600 lg:text-base lg:leading-7 xl:leading-8">آیدی‌پی, اولین پرداخت‌یار پیشگام کشور, با به‌کارگیری سبک و استانداردهای مدرن و هوشمند در ارائه‌ی خدمات درگاه پرداخت اینترنتی, سرویس‌های متنوعی در حوزه‌ی پرداخت الکترونیک برای کسب‌وکارها ارائه داده است؛ با این هدف که در افزایش سهم تجارت الکترونیکی, در تولید ناخالص ملی و کمک به رشد و توسعه‌ی کسب‌وکارها, نقش سازنده‌‌ای ایفا کند.</p>
 			
       <div class="flex gap-4">
-				<a class="btn btn-brand text-xs lg:text-sm lg:h-14 lg:px-8 lg:hover:rotate-3" href="#">ساخت درگاه پرداخت</a>
-				<a class="btn btn-light text-xs lg:text-sm lg:h-14 lg:px-8 lg:hover:-rotate-3" href="#">دانلود اپلیکیشن</a>
+				<a class="btn btn-brand text-xs lg:text-sm lg:h-14 lg:px-8 lg:hover:rotate-3" href="javascript:">ساخت درگاه پرداخت</a>
+				<a class="btn btn-light text-xs lg:text-sm lg:h-14 lg:px-8 lg:hover:-rotate-3" href="javascript:">دانلود اپلیکیشن</a>
 			</div>
 		</div>
     
