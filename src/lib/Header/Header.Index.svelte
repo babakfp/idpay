@@ -15,7 +15,7 @@
 			
 			<!-- Auth -->
 			<div class="h-full border-x border-gray-200 xl:border-r-0">
-				<a class="btn-base | h-full px-4 | text-xs | xl:text-sm xl:hover:bg-gray-100 xl:focus:bg-gray-100" href="/auth">
+				<a class="btn-base | h-full px-4 | text-xs | xl:text-sm xl:hover:bg-gray-100 xl:focus:bg-gray-100" href="#">
 					{#if $isLoggedIn}
 						مشاهده حساب
 					{:else}
