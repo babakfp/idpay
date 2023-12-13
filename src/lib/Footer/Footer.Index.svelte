@@ -54,32 +54,32 @@
       <nav class="grid gap-3">
         <h6 class="font-black text-gray-600">محصولات</h6>
         <ul class="text-sm">
-          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="##">درگاه شخصی و شرکتی</a></li>
-          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="##">درگاه فروشگاه آنلاین</a></li>
-          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="##">فروشگاه اینترنتی بساز</a></li>
-          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="##">کمپین جم‌آوری وجه</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="javascript:">درگاه شخصی و شرکتی</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="javascript:">درگاه فروشگاه آنلاین</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="javascript:">فروشگاه اینترنتی بساز</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="javascript:">کمپین جم‌آوری وجه</a></li>
         </ul>
       </nav>
       <nav class="grid gap-3">
         <h6 class="font-black text-gray-600">آشنایی با آیدی‌پی</h6>
         <ul class="text-sm">
-          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##pricing">تعرفه‌ها</a></li>
-          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##about">درباره ما</a></li>
-          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##faq">سوالات متداول</a></li>
-          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##contact">تماس با ما</a></li>
-          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##pricing">همکاری در فروش</a></li>
-          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##terms">قوانین و مقررات</a></li>
-          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##privacy">حریم خصوصی</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/#pricing">تعرفه‌ها</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/#about">درباره ما</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/#faq">سوالات متداول</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/#contact">تماس با ما</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/#pricing">همکاری در فروش</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/#terms">قوانین و مقررات</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/#privacy">حریم خصوصی</a></li>
         </ul>
       </nav>
       <nav class="grid gap-3">
         <h6 class="font-black text-gray-600">منابع</h6>
         <ul class="text-sm">
-          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##blog">بلاگ</a></li>
-          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##banks">دریافت شماره شبا</a></li>
-          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##web-service">راهنمای API پرداخت</a></li>
-          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##plugins">پلاگین و افزونه‌های پرداخت</a></li>
-          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/##app">دانلود اپلیکیشن</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/#blog">بلاگ</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/#banks">دریافت شماره شبا</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/#web-service">راهنمای API پرداخت</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/#plugins">پلاگین و افزونه‌های پرداخت</a></li>
+          <li><a class="inline-block py-1.5 hover:text-brand duration-150" href="/#app">دانلود اپلیکیشن</a></li>
           </ul>
       </nav>
     </div>

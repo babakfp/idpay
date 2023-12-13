@@ -5,22 +5,22 @@ export const isMobileMenuOpen = writable(false)
 export const navItems = writable([
   {
     title: 'درباره آیدی‌پی',
-    href: '#',
+    href: 'javascript:',
   },
   {
     title: 'سوالات متداول',
-    href: '#',
+    href: 'javascript:',
   },
   {
     title: 'تماس با ما',
-    href: '#',
+    href: 'javascript:',
   },
   {
     title: 'اپلیکیشن',
-    href: '#',
+    href: 'javascript:',
   },
   {
     title: 'مستندات API',
-    href: '#',
+    href: 'javascript:',
   },
 ])
